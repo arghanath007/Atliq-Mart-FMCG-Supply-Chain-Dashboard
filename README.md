@@ -37,7 +37,7 @@
 
 ![C2 Stakeholder Chat_Business Review Meeting_00002](https://user-images.githubusercontent.com/54589605/198040217-89c7bcf5-53cf-4aab-8a39-c02c4176781e.jpg)
 
-![Uploading C2 Stakeholder Chat_Business Review Meeting_00003.jpg
+![C2 Stakeholder Chat_Business Review Meeting_00003](https://user-images.githubusercontent.com/54589605/198041207-834774c8-b80f-4faa-b7a3-7c4f42dd18bd.jpg)
 
 ![C2 Stakeholder Chat_Business Review Meeting_00004](https://user-images.githubusercontent.com/54589605/198040250-8504a869-cb2b-4fbb-967e-413157f48353.jpg)
 
