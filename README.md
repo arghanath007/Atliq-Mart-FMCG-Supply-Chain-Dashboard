@@ -31,7 +31,7 @@
 ![Measures_1](https://user-images.githubusercontent.com/54589605/198040861-66304277-0bfc-4829-8def-5159b9bc586b.PNG)
 
 
-## Conversation
+## Conversation between Stakeholders and Data Analyst
 
 ![C2 Stakeholder Chat_Business Review Meeting_00001](https://user-images.githubusercontent.com/54589605/198040183-0042a597-0ded-47bf-963a-72c7383f4ab0.jpg)
 
