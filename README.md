@@ -18,7 +18,7 @@
 
 ![Product_Insights](https://user-images.githubusercontent.com/54589605/198040467-dee0e082-b440-4768-963a-a9247cecd30a.PNG)
 
-![ProductCategory_Insights](https://user-images.githubusercontent.com/54589605/198040485-c4b6ff0a-64f7-4ef8-aefd-79abc488c796.PNG
+![ProductCategory_Insights](https://user-images.githubusercontent.com/54589605/198040485-c4b6ff0a-64f7-4ef8-aefd-79abc488c796.PNG)
 
 ![Conclusion](https://user-images.githubusercontent.com/54589605/198040513-3bea8d9d-96b4-4514-81ed-1d6cf2cb1b33.PNG)
 
