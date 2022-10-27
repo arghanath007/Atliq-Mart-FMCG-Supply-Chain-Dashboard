@@ -5,7 +5,7 @@
 
 * Challenge Link -> https://codebasics.io/event/codebasics-resume-project-challenge
 * Codebasics YouTube Channel -> https://www.youtube.com/c/codebasics
-* YouTube Video Link -> https://www.youtube.com/watch?v=8tflc_9EfRc
+* YouTube Video Link -> https://www.youtube.com/watch?v=gQVIAlXLhjc
 * Linkedin post ->
 * My Linkedin profile -> https://www.linkedin.com/in/argha-nath-1a1b29192/
 
