@@ -1,4 +1,4 @@
-# Atliq-Mart-FMCG-y-Chain-Dashboard
+# Atliq-Mart-FMCG-Supply-Chain-Dashboard
 
 
 > This was a Challenge put up by a famous YouTuber Codebasics and he provided all the datasets. This time no mock up was provided. Instead we got a conversation between the stakeholders of the company with their Data Analyst. From that conversation we had to figure out the requirements needed to solve the supply chain problem. We had to create a dashboard which showed the overall insights to the stakeholders and also give us enough insights to help solve the supply chain problem. #codebasicsresumeprojectchallenge
@@ -46,9 +46,9 @@
 
 ## Submission Certificate
 
-* Download Link -> Not yet given
+* Download Link -> https://codebasics.io/certificate/CH-1-5-22515
 
-
+[CH-1-5-22515.pdf](https://github.com/arghanath007/Atliq-Mart-FMCG-Supply-Chain-Dashboard/files/10168041/CH-1-5-22515.pdf)
 
 
 
