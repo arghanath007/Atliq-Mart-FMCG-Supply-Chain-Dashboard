@@ -8,6 +8,7 @@
 * YouTube Video Link -> https://www.youtube.com/watch?v=gQVIAlXLhjc
 * Linkedin post -> https://www.linkedin.com/feed/update/urn:li:activity:6991421584414584833/
 * My Linkedin profile -> https://www.linkedin.com/in/argha-nath-1a1b29192/
+* Interactive Dashboard hosted link -> https://www.novypro.com/project/atliq-mart-fmcg-supply-chain
 
 
 ## My Dashboard/Report
